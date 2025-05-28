@@ -9,6 +9,6 @@
   </a>
 </p>
 
-Sou uma pessoa curiosa e prática, que gosta de entender problemas e resolvê-los com tecnologia.
+I am a curious and practical person who enjoys understanding problems and solving them with technology.
 
-Tenho interesse em tudo que envolve construção de sistemas, aprendizado constante e ideias que saem do papel. Acredito em evoluir um pouco a cada projeto — com atenção aos detalhes, colaboração e foco no que realmente importa.
+I am interested in everything related to building systems, continuous learning, and turning ideas into reality. I believe in evolving a little with each project — paying attention to details, collaborating, and focusing on what truly matters.
