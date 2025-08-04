@@ -1,7 +1,12 @@
 # Guilherme Crosariol
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Crosariol-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-crosariol-min%C3%A9-chagas-46966a275/)](https://www.linkedin.com/in/guilherme-crosariol-min%C3%A9-chagas-46966a275/)  
-[![Gmail Badge](https://img.shields.io/badge/-guilhermecrosariol@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermecrosariol@gmail.com)](mailto:guilhermecrosariol@gmail.com)
+<div align="start"> 
+  <a href = "mailto:guilhermecrosariol@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-crosariol-min%C3%A9-chagas-46966a275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,js,react,tailwind,ts,nodejs,postgres,docker,git,github,vscode)](https://skillicons.dev) 
 
 I am a curious and practical person who enjoys understanding problems and solving them with technology.
 
