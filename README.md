@@ -6,7 +6,7 @@
 </div>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,js,react,tailwind,ts,nodejs,postgres,docker,git,github,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,js,react,tailwind,ts,nodejs,postgres,docker,git,github,vscode)](https://skillicons.dev) 
 
 I am a curious and practical person who enjoys understanding problems and solving them with technology.
 
