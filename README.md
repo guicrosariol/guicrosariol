@@ -7,7 +7,3 @@
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,js,react,tailwind,ts,nodejs,prisma,postgres,docker,git,github,vscode)](https://skillicons.dev) 
-
-I am a curious and practical person who enjoys understanding problems and solving them with technology.
-
-I am interested in everything related to building systems, continuous learning, and turning ideas into reality. I believe in evolving a little with each project — paying attention to details, collaborating, and focusing on what truly matters.
