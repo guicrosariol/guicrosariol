@@ -6,4 +6,4 @@
 </div>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,js,react,tailwind,ts,nodejs,prisma,postgres,docker,git,github,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,java,js,react,tailwind,ts,nodejs,prisma,postgres,docker,git,github,vscode)](https://skillicons.dev) 
